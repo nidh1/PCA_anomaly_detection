@@ -12,5 +12,9 @@ dependencies:
   -matplotlib
   -seaborn
   -plotly
+<<<<<<< HEAD
+=======
+  -opendatasets
+>>>>>>> 9bd6e66780912744ad3bc626de232a38c0f4a2a1
   -nbconvert
   -shutil
